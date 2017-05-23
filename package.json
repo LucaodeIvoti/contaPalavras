@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "code": "^4.0.0",
     "lab": "^13.1.0"
   },
   "devDependencies": {},
