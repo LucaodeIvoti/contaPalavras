@@ -1,5 +1,4 @@
-const contaPalavras = function (frase) {
-
-  var frase.split('').leght
-  }
-module.exports = {contaPalavras};
+const contaPalavras = function (frase){
+  return {quantidade:frase.split(' ').length}
+}
+module.exports = { contaPalavras };

@@ -3,15 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "lab": "^13.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "lab -v"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "code": "^4.0.0"
-  },
-  "devDependencies": {
-    "lab": "^13.1.0"
-  }
+  "license": "ISC"
 }
